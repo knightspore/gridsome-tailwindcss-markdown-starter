@@ -3,7 +3,7 @@
 
     <h1 class="text-xl mb-2">Welcome to your Blog!</h1>
 
-    <div class="grid gap-4">
+    <div class="space-y-4">
       <BlogFeedPost 
       v-for="edge in $page.allPost.edges" 
       :key="edge.node.id" 
