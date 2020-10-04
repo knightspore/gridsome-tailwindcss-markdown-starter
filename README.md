@@ -17,8 +17,8 @@ View a live preview [here](https://gridsome-tailwind-markdown-starter.netlify.ap
 ### Create a new Gridsome Project with this Template & Start the Development Server
 
 ```bash
-gridsome create my-new-blog https://github.com/knightspore/gridsome-tailwindcss-markdown-starter
-cd my-new-blog
+git clone https://github.com/knightspore/gridsome-tailwindcss-markdown-starter.git
+cd gridsome-tailwindcss-markdown-starter
 gridsome develop
 ```
 
